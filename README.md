@@ -55,6 +55,7 @@ endmodule
 ~~~
 
 ## Output:
+![github.logo](exp3.png)
 
 ## Truthtable
 
