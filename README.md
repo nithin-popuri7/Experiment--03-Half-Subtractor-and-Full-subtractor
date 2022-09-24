@@ -27,6 +27,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure:
 Write the detailed procedure here 
+
 1.Use module projname(input,output) to start the Verilog programmming. 
 
 2.Assign inputs and outputs using the word input and output respectively.
@@ -68,7 +69,7 @@ endmodule
 
 
 ## Timing diagram:
-
+![github.logo](htd.jpeg)
 ### Full Subractor:
 
 ##  RTL realization
@@ -78,7 +79,7 @@ endmodule
 ![github.logo](ft.jpeg)
 
 ## Timing diagram:
-
+![github.logo](ftd.jpeg)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
