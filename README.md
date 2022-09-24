@@ -70,6 +70,7 @@ endmodule
 
 ## Timing diagram:
 ![github.logo](htd.jpeg)
+
 ### Full Subractor:
 
 ##  RTL realization
