@@ -55,16 +55,23 @@ endmodule
 ~~~
 
 ## Output:
-![github.logo](exp3.png)
+## Full Subractor:
+##  RTL realization
+![github.logo](d3.png)
 
-## Truthtable
+## Truthtable:
+![github.logo](ht.jpeg)
 
 
+## Timing diagram:
+
+### Full Subractor:
 
 ##  RTL realization
+![github.logo](d3.1.png)
 
-
-## Timing diagram 
+## Truthtable:
+![github.logo](ft.jpeg)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
