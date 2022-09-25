@@ -65,7 +65,7 @@ endmodule
 ![github.logo](d3.png)
 
 ## Truthtable:
-![github.logo](ht.jpeg)
+![hst](https://user-images.githubusercontent.com/94154780/192136878-70aa1f32-10e1-4750-ad32-6055eb30edeb.png)
 
 
 ## Timing:
@@ -78,7 +78,8 @@ diagram:
 ![github.logo](d3.1.png)
 
 ## Truthtable:
-![github.logo](ft.jpeg)
+![ft](https://user-images.githubusercontent.com/94154780/192136906-978a3aaf-d6fb-49a8-8a76-55fafffa8ae5.png)
+
 
 ## Timing diagram:
 ![ftd](https://user-images.githubusercontent.com/94154780/192105683-f08f1d74-c427-4508-9a24-049f9de38167.jpeg)
